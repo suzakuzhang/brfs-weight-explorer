@@ -1,0 +1,12 @@
+.next
+out
+node_modules
+data/raw/*
+!data/raw/.gitkeep
+*.tsbuildinfo
+.DS_Store
+
+# private working notes -- not for the public repo (overclaiming LLM-pilot exploration,
+# kept local only; see project_cv_master_digging memory)
+Cognitive dissonance from humans to LLMs.md
+pilot_strategy_memo.md
