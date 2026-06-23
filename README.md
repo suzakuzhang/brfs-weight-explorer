@@ -57,8 +57,8 @@ official April 2016 code table.
 
 Use this as a quantitative-health portfolio artifact:
 
-> I transformed a public behavioural-risk survey dataset into an interactive,
-> AI-assisted analytical dashboard, combining transparent preprocessing,
-> descriptive epidemiological restraint, and user-facing explanation.
+> I transformed public behavioural-risk survey aggregates into an interactive
+> analytical dashboard, combining transparent data handling, descriptive
+> epidemiological restraint, and a constrained user-facing explanation layer.
 
 Do not present it as a causal model. The April 2016 BRFS is cross-sectional.
